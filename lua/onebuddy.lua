@@ -143,7 +143,7 @@ Group.new('helpSectionDelim', c.mono_3,   c.none,  no)
 -- Standard Syntax Highlighting --
 ----------------------------------
 
-Group.new('Comment',        c.mono_3,        c.none, i)
+Group.new('Comment',        c.mono_3,        c.none, no)
 Group.new('Constant',       c.hue_4,         c.none, no)
 Group.new('String',         c.hue_4,         c.none, no)
 Group.new('Character',      c.hue_4,         c.none, no)
